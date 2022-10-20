@@ -1,6 +1,6 @@
 # Gladli website
 
-![Glad Li](C:\Users\Acer\Desktop\Django\Restaurant Template\Delicious-pro\assets\img\gladli.jpg?raw=true)
+![Glad Li](\Users\Acer\Desktop\Django\Restaurant Template\Delicious-pro\assets\img\gladli.jpg?raw=true)
 
 Official Gladli website documentation 
 - Тhe site is under development !!!
