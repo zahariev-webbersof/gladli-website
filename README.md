@@ -9,6 +9,7 @@ Gladli is a fast food restaurant website created to promote the gladli brand. At
 This is the source for the https://gladli.bg/ website
 
 - main branch is deployed to https://gladli.bg/
+- the website is based in bulgaria and this is the main language that supports the website
 
 # Technologies used in the project
 
