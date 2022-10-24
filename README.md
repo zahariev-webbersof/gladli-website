@@ -19,3 +19,7 @@ This is the source for the https://gladli.bg/ website
 - JavaScript
 - HTML
 - Bootstrap
+
+## License
+
+Gladli website is [MIT licensed](http://opensource.org/licenses/MIT).
