@@ -1,4 +1,4 @@
-# Gladli website 
+## Gladli website 
 
 > This repository contains the source code and documentation for [gladli.bg](https://gladli.bg/) website.
 
@@ -12,7 +12,7 @@ This is the source for the https://gladli.bg/ website
 - the website is based in bulgaria and this is the main language that supports the website
 - the website is in a constant development process 
 
-# Technologies used in the project
+## Technologies used in the project
 
 - SCSS
 - CSS
