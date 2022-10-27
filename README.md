@@ -20,6 +20,6 @@ This is the source for the https://gladli.bg/ website
 - HTML
 - Bootstrap
 
-## License
+## Copyright and License
 
-Gladli website is [MIT licensed](http://opensource.org/licenses/MIT).
+Copyright 2013-2022 Start Bootstrap LLC. Code released under the [MIT licensed](http://opensource.org/licenses/MIT) license.
